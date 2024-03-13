@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Submition Bangkit Movie</string>
+    <string name="judul_app">🆉🅴🅴🅼 🅼🅾🆅🅸🅴</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="my_email">abdullohhaidar002@gmail.com</string>
+    <string name="my_bangkt_email">a129d4ky3604@bangkit.academy</string>
+    <string name="fa_brands_instagram">&#xf16d;</string>
+
+    <string-array name="data_name">
+        <item>Avatar</item>
+        <item>Black Phanter</item>
+        <item>Devotion</item>
+        <item>Fall</item>
+        <item>Glass Onion</item>
+        <item>Avengers Age Of ultron</item>
+        <item>Samaritan</item>
+        <item>Screet Headquarters</item>
+        <item>Thor Love Thunder</item>
+        <item>Tron</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment ispoisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington),a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond withher grows, he is drawn into a battle for the survival of her world."
+        </item>
+        <item>
+            "After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerfulenemy suddenly reappears, T'Challa's mettle as king — and as Black Panther — gets tested when he's drawn into a conflict that puts thefate of Wakanda and the entire world at risk. Faced with treachery and danger, the young king must rally his allies and release the fullpower of Black Panther to defeat his foes and secure the safety of his people."
+        </item>
+        <item>
+            "The inspirational true story of Jesse Brown, the first Black aviator in U.S. Navy history, and his enduring friendship with fellow fighterpilot Tom Hudner. Helping to turn the tide in the most brutal battle in the Korean War, their heroic sacrifices ultimately make them theNavy's most celebrated wingmen."
+        </item>
+        <item>
+            "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. However, after they climb 2,000 feet to the topof a remote, abandoned radio tower, they find themselves stranded with no way down. Now, their expert climbing skills are put to the ultimatetest as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights."
+        </item>
+        <item>
+            "ech billionaire Miles Bron invites his friends for a getaway on his private Greek island. When someone turns up dead, Detective Benoit Blancis put on the case."
+        </item>
+        <item>
+            "When the CIA's top asset — his identity known to no one — uncovers agency secrets, he triggers a global hunt by assassins set loose by hisex-colleague."
+        </item>
+        <item>
+            "Thirteen-year-old Sam Cleary suspects that his mysterious and reclusive neighbor, Mr. Smith, is actually a legend hiding in plain sight.Twenty-five years ago, Granite City's superpowered vigilante, Samaritan, was reported dead after a fiery warehouse battle with his rival,Nemesis. Most believe he perished in the fire, but some, like Sam, have hope that he's still alive. With crime now on the rise, Sam makesit his mission to coax Samaritan out of hiding to save the city from ruin."
+        </item>
+        <item>
+            "Secret Headquarters tells the story of a father named Jack who rarely has time for his son, Charlie.  All this time, Jack had been hiding hisidentity as a superhero, so Charlie never knew what his father was doing. One day, Charlie and his friends accidentally discovered a secretelevator."
+        </item>
+        <item>
+            "Thor fills his retirement by wandering in search of peace and trying to restore his body shape. However, in the midst of his wanderings, Thoris again disturbed by the presence of intergalactic killer Gorr the God Butcher who slaughters the Gods"
+        </item>
+        <item>
+            "Violent Night takes a dark look at Santa Claus that turns out to be more than just cookies, candy and his legendary belly laugh. In the trailer,a group of thugs break into the house of a rich family just hoping to celebrate Christmas to rob them. The thugs looted their safe with over $300million dollars inside."
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/poster_avatar</item>
+        <item>@drawable/poster_blackphanter</item>
+        <item>@drawable/poster_devotion</item>
+        <item>@drawable/poster_fall</item>
+        <item>@drawable/poster_glassonion</item>
+        <item>@drawable/poster_avengers_age_of_ultron</item>
+        <item>@drawable/poster_samaritan</item>
+        <item>@drawable/poster_screet</item>
+        <item>@drawable/poster_thor</item>
+        <item>@drawable/poster_tron</item>
+    </integer-array>
+
+    <string-array name="data_years">
+        <item>December 17, 2009</item>
+        <item>Febuary 14, 2018</item>
+        <item>November 23, 2022</item>
+        <item>August 16, 2022</item>
+        <item>September 10, 2022</item>
+        <item>April 22, 2015</item>
+        <item>August 26, 2022</item>
+        <item>August 8, 2022</item>
+        <item>2020</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Animation, Adventure</item>
+        <item>Action, SuperHero</item>
+        <item>War, Action, Drama</item>
+        <item>Thriller, Survival</item>
+        <item>Mystery, Comedy</item>
+        <item>Action, Spy, thriller</item>
+        <item>Action, Fantasy</item>
+        <item>Action, Science fiction</item>
+        <item>SuperHero, Romance</item>
+        <item>Horror, Drama</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>2 Hour 42 minute</item>
+        <item>2 Hour 15 minute</item>
+        <item>2 Hour 9 minute</item>
+        <item>1 Hour 47 minute</item>
+        <item>2 Hour 19 minute</item>
+        <item>2 Hour 21 minute</item>
+        <item>1 Hour 41 minute</item>
+        <item>1 Hour 44 minute</item>
+        <item>2 Hour 30 mnt</item>
+        <item>3 Hour 10mt</item>
+    </string-array>
+
+    <string-array name="data_director">
+        <item>James Camaron</item>
+        <item>Ryan Coogler</item>
+        <item>J. D. Dillard</item>
+        <item>Scott Mann</item>
+        <item>Rian Johnson</item>
+        <item>Joss Whedon</item>
+        <item>Julius Avery</item>
+        <item>Henry Joost, Ariel Schulman</item>
+        <item>2 Hour 30mnt</item>
+        <item>3 Hour 10mt</item>
+    </string-array>
+
+    <string-array name="data_caster">
+        <item>
+            𝑺𝒂𝒎 𝑾𝒐𝒓𝒕𝒉𝒊𝒏𝒈𝒕𝒐𝒏 as Jake Sully
+            - 𝑺𝒕𝒆𝒑𝒉𝒆𝒏 𝑳𝒂𝒏𝒈 as Colonel Miles
+            - 𝑺𝒊𝒈𝒐𝒖𝒓𝒏𝒆𝒚 𝑾𝒆𝒂𝒗𝒆𝒓 as Dr. Grace
+            - 𝑴𝒊𝒄𝒉𝒆𝒍𝒍𝒆 𝑹𝒐𝒅𝒓𝒊𝒈𝒖𝒆𝒛 as Trudy Chacón
+            - 𝑮𝒊𝒐𝒗𝒂𝒏𝒏𝒊 𝑹𝒊𝒃𝒊𝒔𝒊 as Parker Selfridge
+            - 𝑱𝒐𝒆𝒍 𝑫𝒂𝒗𝒊𝒅 𝑴𝒐𝒐𝒓𝒆 as Dr. Norm Spellman
+            - 𝑫𝒊𝒍𝒆𝒆𝒑 𝑹𝒂𝒐 as Dr. Max Patel
+        </item>
+        <item>
+            Chadwick Boseman as T\' Challa / Black Panther
+            - Michael B. Jordan as Erik Killmonger
+            - Lupita Nyong\'o as Nakia
+            - Danai Gurira as Okoye
+            - Martin Freeman as Everett K. Ross
+            - Daniel Kaluuya as W\'Kabi
+            - Letitia Wright as Shuri
+            - Winston Duke as M\'Baku
+        </item>
+        <item>
+            Jonathan Majors as Ensign Jesse L. Brown
+            - Glen Powell as Lieutenant Junior Grade Tom Hudner
+            - Christina Jackson as Daisy Brown
+            - Thomas Sadoski as Lieutenant Commander Dick Cevoli
+            - Daren Kagasoff as Bill Koenig
+            - Joe Jonas as Marty Goode
+            - Spencer Neville as Bo Lavery
+            - Nick Hargrove as Carol Mohring
+            - Boone Platt as Buddy Gill
+            - Dean Denton as USS Leyte (CV-32) Captain T.U. Sisson
+            - Thad Luckinbill as Peters
+            - Joseph Cross as Charlie Ward
+            - Serinda Swan as Elizabeth Taylor
+            - Bill Martin Williams as President of the United States Harry S. Truman
+        </item>
+        <item>
+            Grace Caroline Currey as Becky Connor
+            - Virginia Gardner as Shiloh Hunter
+            - Mason Gooding as Dan Connor
+            - Jeffrey Dean Morgan as James Conner
+        </item>
+        <item>
+            2 Hour 30mnt
+        </item>
+        <item>
+            2 Hour 30mnt
+        </item>
+        <item>
+            2 Hour 30mnt
+        </item>
+        <item>
+            2 Hour 30mnt
+        </item>
+        <item>2 Hour 30mnt</item>
+        <item>3 Hour 10mt</item>
+    </string-array>
+
+    <string-array name="data_distributor">
+        <item>20th Century Studios</item>
+        <item>Walt Disney Studios Motion Pictures</item>
+        <item>Sony Pictures</item>
+        <item>Lionsgate Films, Signature Entertainment</item>
+        <item>Netflix</item>
+        <item>Walt Disney Studios Motion Pictures</item>
+        <item>Amazon MGM Studios, United Artists Releasing</item>
+        <item>Paramount+</item>
+        <item>2 Hour 30mnt</item>
+        <item>3 Hour 10mt</item>
+    </string-array>
+
+</resources>
